@@ -18,7 +18,7 @@ I am a passionate B.Tech CSE student, driven by a deep fascination for technolog
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,reactjs,mongodb,sql,express,c,c++,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,mongodb,mysql,express,git,github,c,cpp,python,kali,postman)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
