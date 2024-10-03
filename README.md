@@ -1,26 +1,28 @@
 # Hi, I'm Himanshu Rawat! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate B.Tech CSE student, driven by a deep fascination for technology and a constant desire to innovate. My journey is all about exploring cutting-edge solutions in computer science, embracing challenges, and contributing to the tech community along the way.
 
-![HimanshuRawat143](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![HimanshuRawat143](https://github-readme-stats.vercel.app/api?username=HimanshuRawat143&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 🔭 I'm currently pursuing my Bachelor's in Computer Science at Graphic Era Hill University, Dehradun.
+- 💻 Actively involved in Web Development, Competitive Programming, and Problem Solving, constantly honing my skills.
+- 🏆 Proud participant in LeetCode and Codeforces contests, solving challenging problems and enhancing my coding expertise.
+- 🚀 Passionate about building innovative web applications and sharing knowledge with the tech community.
+- ✨ Always eager to explore new technologies and take on exciting projects in the world of computer science.
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+## My Projects
+- [🚀 Built an interactive Simon Says game using HTML, CSS, and JavaScript, designed to test memory skills and provide a fun web-based experience.](https://simon-says-game-himanshu.vercel.app/)
+- [🚀 Built a full-stack AirBnb clone using the MERN Stack, featuring dynamic user authentication, property listings, and booking functionality, delivering a seamless user experience from both frontend and backend perspectives.](https://wanderlust-hr.onrender.com/)
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,reactjs,mongodb,sql,express,c,c++,python)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
+  - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
@@ -29,17 +31,16 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- Completed 280+ questions on Leetcode.
 
 
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/himanshurawat12/)
+- Connect Here [Linktree](https://linktr.ee/Himanshu_Rawat_)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
 
 <!--
 
