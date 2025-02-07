@@ -31,7 +31,7 @@ I am a passionate B.Tech CSE student, driven by a deep fascination for technolog
 
  ## 🏆 Achievements
 
-- Completed 500+ questions on Leetcode.
+- Completed 550+ questions on Leetcode.
 
 
 ## 📬 Get in Touch
