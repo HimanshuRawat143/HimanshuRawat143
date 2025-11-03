@@ -32,8 +32,11 @@ I am a passionate B.Tech CSE student, driven by a deep fascination for technolog
   - Diving into PostgreSQL for efficient and scalable database management.
 
  ## 🏆 Achievements
-
-- Completed 600+ questions on Leetcode.
+ 
+- Winner of Hack-O-Holic 3.0 — a 24-hours Hackathon held at Graphic Era Hill University, Dehradun.
+- Secured a position in top 5 in TECHSPRINT- a 48-hours national level hackathon hosted by Graphic Era Group of Institutions, Dehradun.
+- Completed 750+ questions on Leetcode.
+- 3✨✨✨ in problem solving on Hackerrank.
 
 
 ## 📬 Get in Touch
