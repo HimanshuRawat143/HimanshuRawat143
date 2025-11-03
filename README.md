@@ -15,6 +15,8 @@ I am a passionate B.Tech CSE student, driven by a deep fascination for technolog
 ## My Projects
 - [🚀 Built an interactive Simon Says game using HTML, CSS, and JavaScript, designed to test memory skills and provide a fun web-based experience.](https://simon-says-game-himanshu.vercel.app/)
 - [🚀 Built a full-stack AirBnb clone using the MERN Stack, featuring dynamic user authentication, property listings, and booking functionality, delivering a seamless user experience from both frontend and backend perspectives.](https://wanderlust-hr.onrender.com/)
+- [ Built an QR-based attendance app for universities using MERN stack and tested it with more than 500+ students and got successful reports. It reduced attendance time from 20 minutes to 2.0 - 2.5 minutes with providing ease to faculties to upload attendance on ERP system.](https://qr-quick-roll.vercel.app/)
+- [Built an QR-based entry validation system for large gatherings, this idea iss a solution for verifying students manually in large events where more then 3000 students take part, we automated verification process by sending each valid student a QR code which is scanned once and after the entry it is invalid to prevent it from sharing with one another.](https://gehu-digitoken.vercel.app/)
 
 
 ## Tech Stack
